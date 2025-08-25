@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MajidBasharat96  
-- 👀 I’m an SEO Manager.
-- 🌱 I’m currently wokring on SEO Technologies with big companies.
+- 👀 I’m a Project Manager working with Cyber security.
+- 🌱 I’m currently wokring on cyber sec projects.
 - 💞️ I’m looking to collaborate on high class projects.
 - 📫 How to reach me Linkedin[https://www.linkedin.com/in/majid-basharat-1b57a4112/], Phone Call[+923206229676].
 - 👀 I’m eager to learn new ways to solve problems and to work with a good team.
