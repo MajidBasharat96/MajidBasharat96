@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majid Basharat</h1>
-<h3 align="center">Software Engineer | Project Manager | SEO Strategist | AI & Cybersecurity Enthusiast</h3>
+<h3 align="center">Software Engineer | Project Manager | AI & Cybersecurity Enthusiast</h3>
 
 <p align="center">
 Building scalable software, intelligent systems, and high-performance digital platforms.
