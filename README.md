@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @MajidBasharat96  
-- 👀 I’m a Project Manager working with Cyber security.
-- 🌱 I’m currently wokring on cyber sec projects.
-- 💞️ I’m looking to collaborate on high class projects.
-- 📫 How to reach me Linkedin[https://www.linkedin.com/in/majid-basharat-1b57a4112/], Phone Call[+923206229676].
-- 👀 I’m eager to learn new ways to solve problems and to work with a good team.
+<h1 align="center">Hi 👋, I'm Majid Basharat</h1>
+<h3 align="center">Software Engineer | Project Manager | SEO Strategist | AI & Cybersecurity Enthusiast</h3>
 
-<!---
-MajidBasharat96/MajidBasharat96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+Building scalable software, intelligent systems, and high-performance digital platforms.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Software Engineer with strong experience in **Web Development, Python, and System Architecture**
+- 📊 Specialist in **Technical SEO, Digital Strategy, and Data-Driven Growth**
+- 🧠 Currently exploring **Cybersecurity, Machine Learning, and AI Systems**
+- 🏗 Building advanced projects like:
+  - Portable Cybersecurity Labs
+  - AI Intrusion Detection Systems
+  - Automated Vulnerability Scanners
+  - Secure Data Room Platforms
+- 🎯 Focused on building **high-impact open source projects and scalable platforms**
+- 🌍 Interested in **AI, distributed systems, security research, and cloud architecture**
+
+---
+
+## 🧠 Technical Skills
+
+### Programming
